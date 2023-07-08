@@ -42,7 +42,7 @@ nav {
 .btn-outline-primary {
     border-radius: 5px;
     border: 1px solid #FD6E0A;
-
+    background-color: transparent;
     color: #FD6E0A;
     font-size: 20px;
     font-weight: 700;
