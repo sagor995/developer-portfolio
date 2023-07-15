@@ -256,7 +256,8 @@ textarea {
 
 /* Responsive side */
 @media screen and (max-width: 576px) {
-  .skills-container {
+  .skills-container,
+  .resume-container {
     flex-direction: column;
   }
   #what-i-do-description {
